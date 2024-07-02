@@ -43,7 +43,7 @@ Ele será programador.
  - Já a Fernanda Lima, que é casada com o Rodrigo, não possui filhos. Ela vai ocupar a posição de desenvolvedora.  
  - Por último, a Gerente do departamento será Sumaia Azevedo. Casada, duas filhas (Tainã e Nathalia).
 
-###O salário de todos eles será a média salarial dos departamentos de administração e finanças.
+### O salário de todos eles será a média salarial dos departamentos de administração e finanças.
 
 ```
 SET @avg_salario = (SELECT AVG(salario) FROM funcionarios WHERE departamento_id = 1);
