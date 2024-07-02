@@ -1,6 +1,6 @@
-#Momento & Seus Funcionários
+# Momento & Seus Funcionários
 
-##O que vamos fazer? 🎲
+## O que vamos fazer? 🎲
 
 - Inclua suas próprias informações no departamento de tecnologia da empresa
 
