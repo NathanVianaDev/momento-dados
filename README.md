@@ -6,7 +6,7 @@
 
 ```
 INSERT INTO funcionarios(funcionario_id,primeiro_nome,sobrenome,email,senha,telefone,data_contratacao,cargo_id,salario,gerente_id,departamento_id) 
-VALUES (208,'Vitor','Hugo da Silva','vitor_hsilva@momento.org','123456','11987492156','2024-06-30',9,24000.00,NULL,13);
+VALUES (208,'Nathan','Viana Rabelo','nathan_vrabelo@momento.org.br','123456','11995978284','2024-07-02',9,24000.00,NULL,13);
 ```
 
 - Agora diga, quantos funcionários temos ao total na empresa?
